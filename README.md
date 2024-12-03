@@ -44,7 +44,11 @@ Write the detailed procedure here
 
 **Program:**
 
+
+
 DEVELOPED BY: L INDHUMATHI
+
+
 REGISTER NUMBER: 24900500
 
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
