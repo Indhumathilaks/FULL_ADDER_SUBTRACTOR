@@ -38,12 +38,28 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+FULL ADDER
+
+![image](https://github.com/user-attachments/assets/a8cd6506-dfd0-4aa0-b772-7d70d6857642)
+
+FULL SUBTRACTOR
+
+![image](https://github.com/user-attachments/assets/922e5afd-b12e-4ece-8044-4f8490341b51)
+
+
 **Procedure**
 
-Write the detailed procedure here
+Type the program in Quartus software.
+
+Compile and run the program.
+
+Generate the RTL schematic and save the logic diagram.
+
+Create nodes for inputs and outputs to generate the timing diagram.
+
+For different input combinations generate the timing diagram
 
 **Program:**
-
 
 
 DEVELOPED BY: L INDHUMATHI
